@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn==0.32.0
+sqlalchemy
+# psycopg2-binary
+twilio
+transformers
+scikit-learn
+python-dotenv
